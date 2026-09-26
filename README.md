@@ -1,6 +1,6 @@
 # ToDoApi
 
-Personal projects for learning and practice.
+Personal project for learning and practice.
 
 ## Projects
 
